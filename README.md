@@ -5,3 +5,7 @@ In your notes copy the table and complete it.
 ![image](https://github.com/MrAStone/StartEndCodeFixingTask/assets/60425249/2c96d63f-1681-4b62-b50b-48fb68eba186)
 
 Do the coding task in C#
+
+
+![image](https://github.com/user-attachments/assets/54c122eb-14b1-497a-9a62-5864373e502a)
+![image](https://github.com/user-attachments/assets/7c7bc296-35f6-4629-804f-005ab30f389a)
